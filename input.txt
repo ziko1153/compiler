@@ -1,0 +1,17 @@
+   /* Test program */ 
+   int main()  
+   {           
+      // variable declaration 
+      int a, b, c;    
+      char a[20],za,ba;    
+      float x;    
+      double z;    
+     if ( a == b )    
+      /* This is a test  
+          multiline     
+          comment for   
+          testing */      
+         if (1)      
+      a = b + 12.92;       
+   return 0;           
+   }           
